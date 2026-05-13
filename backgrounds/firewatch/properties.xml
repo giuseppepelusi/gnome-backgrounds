@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+    <wallpaper deleted="false">
+        <name>Firewatch Default</name>
+        <filename>/home/__USER__/.local/share/backgrounds/firewatch/firewatch-day.jpg</filename>
+        <filename-dark
+		>/home/__USER__/.local/share/backgrounds/firewatch/firewatch-night.jpg</filename-dark>
+        <options>zoom</options>
+        <shade_type>solid</shade_type>
+        <pcolor>#51a2da</pcolor>
+        <scolor>#294172</scolor>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Firewatch Time of Day</name>
+        <filename>/home/__USER__/.local/share/backgrounds/firewatch/firewatch.xml</filename>
+        <options>zoom</options>
+    </wallpaper>
+</wallpapers>

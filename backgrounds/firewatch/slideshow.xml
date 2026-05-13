@@ -1,0 +1,38 @@
+<background>
+  <starttime>
+    <year>2025</year>
+    <month>04</month>
+    <day>14</day>
+    <hour>8</hour>
+    <minute>00</minute>
+    <second>00</second>
+  </starttime>
+<!-- Animation start at 8 AM -->
+
+<!-- Day image for 10 hours -->
+<static>
+<duration>36000.0</duration>
+<file>/home/__USER__/.local/share/backgrounds/firewatch/firewatch-day.jpg</file>
+</static>
+
+<!-- Transition from 6 PM to 8 PM -->
+<transition type="overlay">
+<duration>7200.0</duration>
+<from>/home/__USER__/.local/share/backgrounds/firewatch/firewatch-day.jpg</from>
+<to>/home/__USER__/.local/share/backgrounds/firewatch/firewatch-night.jpg</to>
+</transition>
+
+<!-- Night image for 10 hours -->
+<static>
+<duration>36000.0</duration>
+<file>/home/__USER__/.local/share/backgrounds/firewatch/firewatch-night.jpg</file>
+</static>
+
+<!-- Transition from 6 AM to 8 AM -->
+<transition type="overlay">
+<duration>7200.0</duration>
+<from>/home/__USER__/.local/share/backgrounds/firewatch/firewatch-night.jpg</from>
+<to>/home/__USER__/.local/share/backgrounds/firewatch/firewatch-day.jpg</to>
+</transition>
+
+</background>
