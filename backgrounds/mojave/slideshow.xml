@@ -12,27 +12,27 @@
 <!-- Day image for 10 hours -->
 <static>
 <duration>36000.0</duration>
-<file>/home/__USER__/.local/share/backgrounds/mojave/mojave-day.png</file>
+<file>/home/__USER__/.local/share/backgrounds/mojave/mojave-day.jpg</file>
 </static>
 
 <!-- Transition from 6 PM to 8 PM -->
 <transition type="overlay">
 <duration>7200.0</duration>
-<from>/home/__USER__/.local/share/backgrounds/mojave/mojave-day.png</from>
-<to>/home/__USER__/.local/share/backgrounds/mojave/mojave-night.png</to>
+<from>/home/__USER__/.local/share/backgrounds/mojave/mojave-day.jpg</from>
+<to>/home/__USER__/.local/share/backgrounds/mojave/mojave-night.jpg</to>
 </transition>
 
 <!-- Night image for 10 hours -->
 <static>
 <duration>36000.0</duration>
-<file>/home/__USER__/.local/share/backgrounds/mojave/mojave-night.png</file>
+<file>/home/__USER__/.local/share/backgrounds/mojave/mojave-night.jpg</file>
 </static>
 
 <!-- Transition from 6 AM to 8 AM -->
 <transition type="overlay">
 <duration>7200.0</duration>
-<from>/home/__USER__/.local/share/backgrounds/mojave/mojave-night.png</from>
-<to>/home/__USER__/.local/share/backgrounds/mojave/mojave-day.png</to>
+<from>/home/__USER__/.local/share/backgrounds/mojave/mojave-night.jpg</from>
+<to>/home/__USER__/.local/share/backgrounds/mojave/mojave-day.jpg</to>
 </transition>
 
 </background>
