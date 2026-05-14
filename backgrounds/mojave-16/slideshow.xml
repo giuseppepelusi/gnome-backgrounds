@@ -1,0 +1,220 @@
+<background>
+  <starttime>
+    <year>2026</year>
+    <month>05</month>
+    <day>13</day>
+    <hour>00</hour>
+    <minute>00</minute>
+    <second>00</second>
+  </starttime>
+<!-- Animation starts at 0:00 -->
+
+<!-- 01 Deep Night: 0:00 to 4:15 -->
+<!-- Heavy blues and dark shadows, very little definition on the sand dunes -->
+<static>
+  <duration>15300.0</duration>
+  <file>/home/__USER__/.local/share/backgrounds/mojave-16/mojave-01.png</file>
+</static>
+<!-- Transition 01 to 02: 4:15 to 4:30 -->
+<transition type="overlay">
+  <duration>900.0</duration>
+  <from>/home/__USER__/.local/share/backgrounds/mojave-16/mojave-01.png</from>
+  <to>/home/__USER__/.local/share/backgrounds/mojave-16/mojave-02.png</to>
+</transition>
+
+<!-- 02 Pre-Dawn Blue Hour: 4:30 to 5:15 -->
+<!-- Sky begins to lighten into a clearer blue, dunes remain dark silhouettes -->
+<static>
+  <duration>2700.0</duration>
+  <file>/home/__USER__/.local/share/backgrounds/mojave-16/mojave-02.png</file>
+</static>
+<!-- Transition 02 to 03: 5:15 to 5:30 -->
+<transition type="overlay">
+  <duration>900.0</duration>
+  <from>/home/__USER__/.local/share/backgrounds/mojave-16/mojave-02.png</from>
+  <to>/home/__USER__/.local/share/backgrounds/mojave-16/mojave-03.png</to>
+</transition>
+
+<!-- 03 Early Sunrise: 5:30 to 6:15 -->
+<!-- Soft pink and purple hues appear, first light catches the right face of the main dune -->
+<static>
+  <duration>2700.0</duration>
+  <file>/home/__USER__/.local/share/backgrounds/mojave-16/mojave-03.png</file>
+</static>
+<!-- Transition 03 to 04: 6:15 to 6:30 -->
+<transition type="overlay">
+  <duration>900.0</duration>
+  <from>/home/__USER__/.local/share/backgrounds/mojave-16/mojave-03.png</from>
+  <to>/home/__USER__/.local/share/backgrounds/mojave-16/mojave-04.png</to>
+</transition>
+
+<!-- 04 Morning Golden Hour: 6:30 to 7:45 -->
+<!-- Pale violet-white sky, dunes take on warm orange-gold glow with long soft shadows -->
+<static>
+  <duration>4500.0</duration>
+  <file>/home/__USER__/.local/share/backgrounds/mojave-16/mojave-04.png</file>
+</static>
+<!-- Transition 04 to 05: 7:45 to 8:00 -->
+<transition type="overlay">
+  <duration>900.0</duration>
+  <from>/home/__USER__/.local/share/backgrounds/mojave-16/mojave-04.png</from>
+  <to>/home/__USER__/.local/share/backgrounds/mojave-16/mojave-05.png</to>
+</transition>
+
+<!-- 05 Mid-Morning: 8:00 to 9:05 -->
+<!-- Brighter blue sky, warm orange glow transitions into natural sand tan -->
+<static>
+  <duration>3900.0</duration>
+  <file>/home/__USER__/.local/share/backgrounds/mojave-16/mojave-05.png</file>
+</static>
+<!-- Transition 05 to 06: 9:05 to 9:20 -->
+<transition type="overlay">
+  <duration>900.0</duration>
+  <from>/home/__USER__/.local/share/backgrounds/mojave-16/mojave-05.png</from>
+  <to>/home/__USER__/.local/share/backgrounds/mojave-16/mojave-06.png</to>
+</transition>
+
+<!-- 06 Late Morning: 9:20 to 10:25 -->
+<!-- Neutral and direct light, shadows on left slopes begin to retract toward the meridian -->
+<static>
+  <duration>3900.0</duration>
+  <file>/home/__USER__/.local/share/backgrounds/mojave-16/mojave-06.png</file>
+</static>
+<!-- Transition 06 to 07: 10:25 to 10:40 -->
+<transition type="overlay">
+  <duration>900.0</duration>
+  <from>/home/__USER__/.local/share/backgrounds/mojave-16/mojave-06.png</from>
+  <to>/home/__USER__/.local/share/backgrounds/mojave-16/mojave-07.png</to>
+</transition>
+
+<!-- 07 Pre-Noon: 10:40 to 11:45 -->
+<!-- Vibrant saturated blue sky, nearly vertical illumination, thin slivers of shadow on ridges -->
+<static>
+  <duration>3900.0</duration>
+  <file>/home/__USER__/.local/share/backgrounds/mojave-16/mojave-07.png</file>
+</static>
+<!-- Transition 07 to 08: 11:45 to 12:00 -->
+<transition type="overlay">
+  <duration>900.0</duration>
+  <from>/home/__USER__/.local/share/backgrounds/mojave-16/mojave-07.png</from>
+  <to>/home/__USER__/.local/share/backgrounds/mojave-16/mojave-08.png</to>
+</transition>
+
+<!-- 08 High Noon: 12:00 to 13:15 -->
+<!-- Sun at its peak, shadows shortest and most concentrated along dune ridges -->
+<static>
+  <duration>4500.0</duration>
+  <file>/home/__USER__/.local/share/backgrounds/mojave-16/mojave-08.png</file>
+</static>
+<!-- Transition 08 to 09: 13:15 to 13:30 -->
+<transition type="overlay">
+  <duration>900.0</duration>
+  <from>/home/__USER__/.local/share/backgrounds/mojave-16/mojave-08.png</from>
+  <to>/home/__USER__/.local/share/backgrounds/mojave-16/mojave-09.png</to>
+</transition>
+
+<!-- 09 Early Afternoon: 13:30 to 14:45 -->
+<!-- Light shifts toward the left, sand appears bright and washed out in direct sun -->
+<static>
+  <duration>4500.0</duration>
+  <file>/home/__USER__/.local/share/backgrounds/mojave-16/mojave-09.png</file>
+</static>
+<!-- Transition 09 to 10: 14:45 to 15:00 -->
+<transition type="overlay">
+  <duration>900.0</duration>
+  <from>/home/__USER__/.local/share/backgrounds/mojave-16/mojave-09.png</from>
+  <to>/home/__USER__/.local/share/backgrounds/mojave-16/mojave-10.png</to>
+</transition>
+
+<!-- 10 Mid-Afternoon: 15:00 to 16:15 -->
+<!-- Shadows stretch toward the right side of dunes, sky takes on a deeper blue tone -->
+<static>
+  <duration>4500.0</duration>
+  <file>/home/__USER__/.local/share/backgrounds/mojave-16/mojave-10.png</file>
+</static>
+<!-- Transition 10 to 11: 16:15 to 16:30 -->
+<transition type="overlay">
+  <duration>900.0</duration>
+  <from>/home/__USER__/.local/share/backgrounds/mojave-16/mojave-10.png</from>
+  <to>/home/__USER__/.local/share/backgrounds/mojave-16/mojave-11.png</to>
+</transition>
+
+<!-- 11 Late Afternoon: 16:30 to 17:45 -->
+<!-- Sun lower in sky, distinct sharp shadows on right-hand slopes of dunes -->
+<static>
+  <duration>4500.0</duration>
+  <file>/home/__USER__/.local/share/backgrounds/mojave-16/mojave-11.png</file>
+</static>
+<!-- Transition 11 to 12: 17:45 to 18:00 -->
+<transition type="overlay">
+  <duration>900.0</duration>
+  <from>/home/__USER__/.local/share/backgrounds/mojave-16/mojave-11.png</from>
+  <to>/home/__USER__/.local/share/backgrounds/mojave-16/mojave-12.png</to>
+</transition>
+
+<!-- 12 Early Sunset: 18:00 to 18:45 -->
+<!-- Sky layers with horizontal bands of purple, grey and blue as sun nears the horizon -->
+<static>
+  <duration>2700.0</duration>
+  <file>/home/__USER__/.local/share/backgrounds/mojave-16/mojave-12.png</file>
+</static>
+<!-- Transition 12 to 13: 18:45 to 19:00 -->
+<transition type="overlay">
+  <duration>900.0</duration>
+  <from>/home/__USER__/.local/share/backgrounds/mojave-16/mojave-12.png</from>
+  <to>/home/__USER__/.local/share/backgrounds/mojave-16/mojave-13.png</to>
+</transition>
+
+<!-- 13 Peak Sunset: 19:00 to 20:15 -->
+<!-- Deep orange light catches dune tops against a sky turning violet and grey -->
+<static>
+  <duration>4500.0</duration>
+  <file>/home/__USER__/.local/share/backgrounds/mojave-16/mojave-13.png</file>
+</static>
+<!-- Transition 13 to 14: 20:15 to 20:30 -->
+<transition type="overlay">
+  <duration>900.0</duration>
+  <from>/home/__USER__/.local/share/backgrounds/mojave-16/mojave-13.png</from>
+  <to>/home/__USER__/.local/share/backgrounds/mojave-16/mojave-14.png</to>
+</transition>
+
+<!-- 14 Late Dusk: 20:30 to 21:15 -->
+<!-- Visible light nearly gone, dunes appear as dark grey and black shapes against darkening sky -->
+<static>
+  <duration>2700.0</duration>
+  <file>/home/__USER__/.local/share/backgrounds/mojave-16/mojave-14.png</file>
+</static>
+<!-- Transition 14 to 15: 21:15 to 21:30 -->
+<transition type="overlay">
+  <duration>900.0</duration>
+  <from>/home/__USER__/.local/share/backgrounds/mojave-16/mojave-14.png</from>
+  <to>/home/__USER__/.local/share/backgrounds/mojave-16/mojave-15.png</to>
+</transition>
+
+<!-- 15 Early Night: 21:30 to 22:45 -->
+<!-- Landscape almost entirely black, faint grey gradients on ridges, deep indigo sky -->
+<static>
+  <duration>4500.0</duration>
+  <file>/home/__USER__/.local/share/backgrounds/mojave-16/mojave-15.png</file>
+</static>
+<!-- Transition 15 to 16: 22:45 to 23:00 -->
+<transition type="overlay">
+  <duration>900.0</duration>
+  <from>/home/__USER__/.local/share/backgrounds/mojave-16/mojave-15.png</from>
+  <to>/home/__USER__/.local/share/backgrounds/mojave-16/mojave-16.png</to>
+</transition>
+
+<!-- 16 Late Night: 23:00 to 23:45 -->
+<!-- Cycle completes, landscape returns to darkest blues and blacks of midnight -->
+<static>
+  <duration>2700.0</duration>
+  <file>/home/__USER__/.local/share/backgrounds/mojave-16/mojave-16.png</file>
+</static>
+<!-- Transition 16 to 01: 23:45 to 0:00 -->
+<transition type="overlay">
+  <duration>900.0</duration>
+  <from>/home/__USER__/.local/share/backgrounds/mojave-16/mojave-16.png</from>
+  <to>/home/__USER__/.local/share/backgrounds/mojave-16/mojave-01.png</to>
+</transition>
+
+</background>
