@@ -3,9 +3,9 @@
 <wallpapers>
     <wallpaper deleted="false">
         <name>Mojave Default</name>
-        <filename>/home/__USER__/.local/share/backgrounds/mojave/mojave-day.jpg</filename>
+        <filename>/home/__USER__/.local/share/backgrounds/mojave/mojave-day.png</filename>
         <filename-dark
-		>/home/__USER__/.local/share/backgrounds/mojave/mojave-night.jpg</filename-dark>
+		>/home/__USER__/.local/share/backgrounds/mojave/mojave-night.png</filename-dark>
         <options>zoom</options>
         <shade_type>solid</shade_type>
         <pcolor>#685B58</pcolor>
