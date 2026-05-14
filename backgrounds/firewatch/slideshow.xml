@@ -12,27 +12,27 @@
 <!-- Day image for 10 hours -->
 <static>
 <duration>36000.0</duration>
-<file>/home/__USER__/.local/share/backgrounds/firewatch/firewatch-day.jpg</file>
+<file>/home/__USER__/.local/share/backgrounds/firewatch/firewatch-day.png</file>
 </static>
 
 <!-- Transition from 6 PM to 8 PM -->
 <transition type="overlay">
 <duration>7200.0</duration>
-<from>/home/__USER__/.local/share/backgrounds/firewatch/firewatch-day.jpg</from>
-<to>/home/__USER__/.local/share/backgrounds/firewatch/firewatch-night.jpg</to>
+<from>/home/__USER__/.local/share/backgrounds/firewatch/firewatch-day.png</from>
+<to>/home/__USER__/.local/share/backgrounds/firewatch/firewatch-night.png</to>
 </transition>
 
 <!-- Night image for 10 hours -->
 <static>
 <duration>36000.0</duration>
-<file>/home/__USER__/.local/share/backgrounds/firewatch/firewatch-night.jpg</file>
+<file>/home/__USER__/.local/share/backgrounds/firewatch/firewatch-night.png</file>
 </static>
 
 <!-- Transition from 6 AM to 8 AM -->
 <transition type="overlay">
 <duration>7200.0</duration>
-<from>/home/__USER__/.local/share/backgrounds/firewatch/firewatch-night.jpg</from>
-<to>/home/__USER__/.local/share/backgrounds/firewatch/firewatch-day.jpg</to>
+<from>/home/__USER__/.local/share/backgrounds/firewatch/firewatch-night.png</from>
+<to>/home/__USER__/.local/share/backgrounds/firewatch/firewatch-day.png</to>
 </transition>
 
 </background>
