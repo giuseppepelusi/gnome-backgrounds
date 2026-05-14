@@ -55,6 +55,6 @@ To uninstall:
    ```
 
 ### **Credits**
-Firewatch: [Firewatch 4k Wallpapers](https://wallpapercave.com/firewatch-4k-wallpapers)
+Firewatch: [Firewatch Wallpapers](https://alphacoders.com/firewatch-wallpapers)
 
 Mojave: [MacOS-Mojave-Minimal-Dynamic-Wallpaper](https://www.behance.net/gallery/176464495/MacOS-Mojave-Minimal-Dynamic-Wallpaper)
